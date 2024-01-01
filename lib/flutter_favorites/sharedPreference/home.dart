@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_favorites/flutter_favorites/shared_preference.dart';
+import 'package:flutter_favorites/flutter_favorites/sharedPreference/shared_preference.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
